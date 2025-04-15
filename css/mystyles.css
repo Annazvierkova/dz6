@@ -1,0 +1,49 @@
+#promo {
+    background-color: #F2FBAE;
+}
+
+.container {
+    padding-left: 50px;
+    padding-right: 100px;
+
+}
+
+.text1 {
+    padding-top: 200px;
+
+} 
+
+.text2 {
+    padding-left: 100px;
+}
+
+.luna {
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+#galery {
+    background-image: url(../img/modern-abstract-background-with-lines-waves-shapes_178156-278.avif);
+    
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+}
+
+.imd1_2_3{
+    display: flex;
+    flex-direction: row;
+    padding-top: 80px;
+}
+
+
+.imd4_5_6{
+    display: flex;
+    flex-direction: row;
+    padding-top: 80px;
+}
+
+.img{
+    padding-right: 60px;
+    padding-left: 60px;
+}
